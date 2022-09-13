@@ -1,0 +1,91 @@
+@media screen and (min-width:720px) {
+    .ul {
+        width: 42rem
+    }
+}
+
+@media screen and (min-width:768px) {
+    .ul-footer {
+        width: 43rem
+    }
+    .fac-sec {
+        height: 260vh
+    }
+}
+
+@media screen and (max-width:540px) {
+    .ul {
+        display: none;
+    }
+    .ul-footer>li>a {
+        font-size: .6rem!important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .MsP2 {
+        height: 65%;
+    }
+    .MsP1 {
+        height: 35%;
+    }
+    .video {
+        height: 65vh;
+        margin-top: 7%;
+        width: 100%;
+    }
+    .fac-part1 figure>img {
+        height: 30vh;
+    }
+    .footer {
+        height: 36vh;
+    }
+    .ul-footer>li>a {
+        font-size: .8rem;
+    }
+    .fac-sec {
+        height: 310vh
+    }
+    .register {
+        height: 123vh
+    }
+}
+
+@media screen and (min-width:960px) {
+    .ul {
+        width: 46rem
+    }
+    .ul-footer {
+        width: 50rem
+    }
+    .fac-sec {
+        height: 210vh
+    }
+}
+
+@media screen and (max-width:990px) {
+    .fac-part2-img {
+        height: 50%;
+    }
+    .fac-part-content {
+        height: 50%;
+    }
+    .fac-part3 {
+        width: 100%;
+    }
+    .card-container {
+        height: 180vh
+    }
+    .card>div {
+        height: 95%;
+    }
+    .card-sec2>h1 {
+        font-size: 1rem
+    }
+    .card-sec2>p {
+        font-size: .6rem
+    }
+    .fac-part-content p {
+        font-size: .7rem
+    }
+}
